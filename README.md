@@ -2,7 +2,7 @@
 
 That's a simple Twitter clone just to fun with MongoDB, Node.js, Socket.io, React.js, Vue.js and React Native.
 
-`![Running](https://github.com/fauker/twitter-clone/blob/master/docs/gif-twitter-clone.gif)`
+![](https://raw.githubusercontent.com/fauker/twitter-clone/master/docs/gif-twitter-clone.gif)
 
 ### MongoDB
 - run mongod on `27017`
