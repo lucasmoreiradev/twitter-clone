@@ -16,7 +16,7 @@ That's a simple Twitter clone just to fun with MongoDB, Node.js, Socket.io, Reac
 ### Frontend
 - React.js in **web-react** folder
 	- yarn && yarn start 
-- Vue.js in **web-vue** folder (`@TODO`)
+- Vue.js in **web-vue** folder
 	- yarn && yarn serve
 
 ### Mobile
